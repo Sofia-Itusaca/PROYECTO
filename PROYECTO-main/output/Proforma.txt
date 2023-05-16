@@ -1,0 +1,12 @@
+AUTOLAND
+Av. Tomas Valle, Independencia
+Contactenos al 969365258
+
+                DATOS CLIENTE:                                       DATOS EMPLEADO:                        
+Cliente        :  Carlos Rios                     Empleado       :  Ana Sofia Itusaca Laberiano   
+DNI            :  72640971                        Codigo         :  202302                        
+Numero         :  94795231            
+
+Meses     Descripcion                           Precio Cont.       Interes Cred.       Pagar Mensual       Precio Total
+06        MITSUBISHI ALL NEW XPANDER                   73088             4385.28             12912.2             77473.3
+12        MITSUBISHI ALL NEW XPANDER                   73088             5847.04             6577.92               78935

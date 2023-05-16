@@ -1,0 +1,22 @@
+	AUTOLAND REPORTE DE VENTAS DEL MES
+
+Empleado: Ana Sofia Itusaca Laberiano
+
+Autos Vendidos: 
+HYUNDAI VENUE                 s/   73088
+NISSAN KICKS                  s/   66863
+CHERY TIGGO 2 PRO             s/   52463
+CHERY ECLIPSE CROSS           s/   47025
+                                    ____
+Ganancia Total:               s/  239439
+ _______________
+|											|
+|Sueldo                        : s/    1200 |
+|Total ganacias                : s/  239439 |
+|Comision por las ventas       : s/ 7183.17 |
+|Sueldo del mes                : s/ 8383.17 |
+|_______________|
+
+
+
+
